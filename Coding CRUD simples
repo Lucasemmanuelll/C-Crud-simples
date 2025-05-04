@@ -1,0 +1,27 @@
+# CRUD Simples em C#
+
+Este é um projeto de um CRUD simples feito em Csharp, utilizando o console como interface.
+
+## ✨ Funcionalidades
+
+- Criar novos registros
+- Listar todos os registros
+- Atualizar um registro existente
+- Remover um registro
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Lucasemmanuell/C-Crud-simples
+2. Acesse a pasta do Projeto: 
+cd C-Crud-simples
+3. Execute o projeto:
+ dotnet run 
+
+🛠️ Requisitos
+.NET SDK 6 ou superior instalado
+
+🙋‍♂️ Autor
+Feito com 💻 por Lucas Emmanuel
+GitHub: @Lucasemmanuell
