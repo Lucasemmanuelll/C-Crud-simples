@@ -1,0 +1,15 @@
+# CRUD de Clientes em C#
+
+Este projeto é um CRUD simples feito em C# com .NET para console.
+
+## Funcionalidades
+
+- Criar cliente
+- Exibir clientes
+- Atualizar cliente
+- Deletar cliente
+
+## Como executar
+
+1. Clone o repositório
+2. Abra com o Visual Studio ou rode `dotnet run` no terminal
