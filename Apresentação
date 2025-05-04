@@ -13,3 +13,10 @@ Este projeto é um CRUD simples feito em C# com .NET para console.
 
 1. Clone o repositório
 2. Abra com o Visual Studio ou rode `dotnet run` no terminal
+## Requisitos
+
+- .NET SDK instalado (versão 6 ou superior)
+
+---
+
+Feito por [Lucas Emanuel](https://github.com/Lucasemmanuell)
